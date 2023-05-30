@@ -30,7 +30,7 @@ pkg_nofetch(){
 	ewarn "after that, go to https://www.netacad.com and login with"
 	ewarn "your account, and after that, you should download a file"
 	ewarn "named \"${SRC_URI}\" then move it to"
-	ewarn "your DISTDIR directory (default: /usr/portage/distfiles)"
+	ewarn "your DISTDIR directory (default: /var/cache/distfiles)"
 	ewarn "and then, you can proceed with the installation."
 }
 
