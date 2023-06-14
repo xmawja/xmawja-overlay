@@ -7,8 +7,8 @@ inherit desktop unpacker xdg
 
 DESCRIPTION="Cisco's packet tracer"
 HOMEPAGE="https://www.netacad.com/portal/resources/packet-tracer"
-#SRC_URI="https://www.netacad.com/portal/resources/file/${P}.deb"
-SRC_URI="https://www.netacad.com/portal/resources/file/f40aaa18-2b25-4337-81a3-8f989232abf6"
+SRC_URI="https://www.netacad.com/portal/resources/packet_tracer/${P}.deb"
+#SRC_URI="https://www.netacad.com/portal/resources/file/f40aaa18-2b25-4337-81a3-8f989232abf6"
 
 LICENSE="Cisco"
 SLOT="0"
