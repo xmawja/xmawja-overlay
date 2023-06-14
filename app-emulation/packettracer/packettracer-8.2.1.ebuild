@@ -20,7 +20,7 @@ RDEPEND="${DEPEND}
 	dev-libs/icu
 	x11-libs/xcb-util
 "
-S="${WORKDIR}/${PN}-${P}"
+S="${WORKDIR}"
 QA_PREBUILT="opt/pt/*"
 
 pkg_nofetch(){
