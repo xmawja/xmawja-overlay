@@ -1,13 +1,13 @@
 # Copyright 2020 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=7
+EAPI=8
 
 inherit desktop pax-utils unpacker xdg
 
 DESCRIPTION="Cisco's packet tracer"
 HOMEPAGE="https://www.netacad.com/portal/resources/packet-tracer"
-SRC_URI="https://www.netacad.com/portal/resources/file/${P}.deb"
+SRC_URI="CiscoPacketTracer_821_Ubuntu_64bit.deb"
 
 LICENSE="Cisco"
 SLOT="0"
